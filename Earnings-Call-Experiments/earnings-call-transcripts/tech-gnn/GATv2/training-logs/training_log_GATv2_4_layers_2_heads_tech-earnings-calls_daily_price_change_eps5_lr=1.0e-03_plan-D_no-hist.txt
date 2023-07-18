@@ -1,0 +1,5 @@
+Target: daily_price_change | Layers 004| Heads 002| Epoch 000 | Train Loss 72.701551764 | Valid Loss 0.006072956| lr 0.001000000 | time 1453.289
+Target: daily_price_change | Layers 004| Heads 002| Epoch 001 | Train Loss 0.060808939 | Valid Loss 0.006076830| lr 0.001000000 | time 2201.728
+Target: daily_price_change | Layers 004| Heads 002| Epoch 002 | Train Loss 0.034817233 | Valid Loss 0.006053242| lr 0.001000000 | time 1368.974
+Target: daily_price_change | Layers 004| Heads 002| Epoch 003 | Train Loss 0.031072860 | Valid Loss 0.006065403| lr 0.001000000 | time 1324.907
+Target: daily_price_change | Layers 004| Heads 002| Epoch 004 | Train Loss 18012462356.256252289 | Valid Loss 16807637.632344212| lr 0.001000000 | time 1041.692

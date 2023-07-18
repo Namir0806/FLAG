@@ -1,0 +1,5 @@
+Target: weekly_avg_price_change | Layers 004| Heads 004| Epoch 000 | Train Loss 0.343729580 | Valid Loss 0.007204723| lr 0.000090000 | time 1212.907
+Target: weekly_avg_price_change | Layers 004| Heads 004| Epoch 001 | Train Loss 0.008310679 | Valid Loss 0.007212889| lr 0.000090000 | time 1201.533
+Target: weekly_avg_price_change | Layers 004| Heads 004| Epoch 002 | Train Loss 0.007395125 | Valid Loss 0.007209562| lr 0.000090000 | time 1218.567
+Target: weekly_avg_price_change | Layers 004| Heads 004| Epoch 003 | Train Loss 0.007377582 | Valid Loss 0.007204434| lr 0.000090000 | time 1226.422
+Target: weekly_avg_price_change | Layers 004| Heads 004| Epoch 004 | Train Loss 0.013133928 | Valid Loss 0.007207494| lr 0.000090000 | time 1226.905

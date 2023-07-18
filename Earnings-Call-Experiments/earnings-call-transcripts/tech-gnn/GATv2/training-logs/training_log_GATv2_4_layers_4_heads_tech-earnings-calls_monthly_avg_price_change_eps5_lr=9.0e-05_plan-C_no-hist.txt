@@ -1,0 +1,5 @@
+Target: monthly_avg_price_change | Layers 004| Heads 004| Epoch 000 | Train Loss 0.117383308 | Valid Loss 0.010807042| lr 0.000090000 | time 1217.177
+Target: monthly_avg_price_change | Layers 004| Heads 004| Epoch 001 | Train Loss 0.010788248 | Valid Loss 0.010712301| lr 0.000090000 | time 1266.995
+Target: monthly_avg_price_change | Layers 004| Heads 004| Epoch 002 | Train Loss 0.019600297 | Valid Loss 0.010697206| lr 0.000090000 | time 1288.702
+Target: monthly_avg_price_change | Layers 004| Heads 004| Epoch 003 | Train Loss 0.011568385 | Valid Loss 0.010682768| lr 0.000090000 | time 1285.797
+Target: monthly_avg_price_change | Layers 004| Heads 004| Epoch 004 | Train Loss 0.010753410 | Valid Loss 0.010679447| lr 0.000090000 | time 1294.904

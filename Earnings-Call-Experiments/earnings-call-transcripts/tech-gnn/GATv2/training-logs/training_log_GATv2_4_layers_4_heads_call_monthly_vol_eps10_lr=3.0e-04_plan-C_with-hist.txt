@@ -1,0 +1,10 @@
+Target: monthly_vol | Layers 004| Heads 004| Epoch 000 | Train Loss 0.216467644 | Valid Loss 0.001609008| lr 0.000300000 | time 1531.118
+Target: monthly_vol | Layers 004| Heads 004| Epoch 001 | Train Loss 0.001356312 | Valid Loss 0.001391608| lr 0.000300000 | time 1477.534
+Target: monthly_vol | Layers 004| Heads 004| Epoch 002 | Train Loss 0.248158474 | Valid Loss 0.001385939| lr 0.000300000 | time 1549.876
+Target: monthly_vol | Layers 004| Heads 004| Epoch 003 | Train Loss 0.481481651 | Valid Loss 0.001348203| lr 0.000300000 | time 1556.277
+Target: monthly_vol | Layers 004| Heads 004| Epoch 004 | Train Loss 18.739280509 | Valid Loss 0.001317782| lr 0.000300000 | time 1298.706
+Target: monthly_vol | Layers 004| Heads 004| Epoch 005 | Train Loss 0.616388146 | Valid Loss 0.001376899| lr 0.000300000 | time 1233.539
+Target: monthly_vol | Layers 004| Heads 004| Epoch 006 | Train Loss 2.611821400 | Valid Loss 0.001324435| lr 0.000300000 | time 1853.335
+Target: monthly_vol | Layers 004| Heads 004| Epoch 007 | Train Loss 0.001626268 | Valid Loss 0.001311482| lr 0.000300000 | time 2159.450
+Target: monthly_vol | Layers 004| Heads 004| Epoch 008 | Train Loss 0.001248429 | Valid Loss 0.001310498| lr 0.000300000 | time 2184.456
+Target: monthly_vol | Layers 004| Heads 004| Epoch 009 | Train Loss 0.001242279 | Valid Loss 0.001301784| lr 0.000300000 | time 2173.045
