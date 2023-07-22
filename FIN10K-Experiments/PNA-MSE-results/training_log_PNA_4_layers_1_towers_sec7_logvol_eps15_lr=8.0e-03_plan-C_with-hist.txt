@@ -1,0 +1,15 @@
+Target: logvol | Towers 004| Heads 001| Epoch 000 | Train Loss 58520.887348872 | Valid Loss 0.117444931| lr 0.008000000 | time 1974.074
+Target: logvol | Towers 004| Heads 001| Epoch 001 | Train Loss 11296.775963006 | Valid Loss 0.096867006| lr 0.008000000 | time 1971.721
+Target: logvol | Towers 004| Heads 001| Epoch 002 | Train Loss 54.621228881 | Valid Loss 0.214825831| lr 0.008000000 | time 1992.149
+Target: logvol | Towers 004| Heads 001| Epoch 003 | Train Loss 176.385141416 | Valid Loss 0.127780427| lr 0.008000000 | time 1983.101
+Target: logvol | Towers 004| Heads 001| Epoch 004 | Train Loss 124.016958839 | Valid Loss 0.119630345| lr 0.008000000 | time 1969.860
+Target: logvol | Towers 004| Heads 001| Epoch 005 | Train Loss 2294.974855188 | Valid Loss 0.097813132| lr 0.008000000 | time 1995.417
+Target: logvol | Towers 004| Heads 001| Epoch 006 | Train Loss 10981.365330323 | Valid Loss 0.186407741| lr 0.008000000 | time 1986.565
+Target: logvol | Towers 004| Heads 001| Epoch 007 | Train Loss 7.106686601 | Valid Loss 0.108155886| lr 0.008000000 | time 1981.773
+Target: logvol | Towers 004| Heads 001| Epoch 008 | Train Loss 64876.484875348 | Valid Loss 0.242066818| lr 0.008000000 | time 1977.402
+Target: logvol | Towers 004| Heads 001| Epoch 009 | Train Loss 85.607286554 | Valid Loss 0.400115427| lr 0.008000000 | time 1973.393
+Target: logvol | Towers 004| Heads 001| Epoch 010 | Train Loss 349053.514406349 | Valid Loss 0.094798750| lr 0.008000000 | time 2094.261
+Target: logvol | Towers 004| Heads 001| Epoch 011 | Train Loss 907.303522832 | Valid Loss 0.166772943| lr 0.008000000 | time 1929.630
+Target: logvol | Towers 004| Heads 001| Epoch 012 | Train Loss 5237.526996658 | Valid Loss 0.203953830| lr 0.008000000 | time 1917.714
+Target: logvol | Towers 004| Heads 001| Epoch 013 | Train Loss 68.655126024 | Valid Loss 0.120814204| lr 0.008000000 | time 1919.889
+Target: logvol | Towers 004| Heads 001| Epoch 014 | Train Loss 114.440802733 | Valid Loss 2.771204581| lr 0.008000000 | time 1907.459

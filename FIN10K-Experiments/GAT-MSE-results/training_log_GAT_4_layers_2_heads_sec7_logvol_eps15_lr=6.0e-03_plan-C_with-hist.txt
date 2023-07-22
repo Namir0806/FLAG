@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 002| Epoch 000 | Train Loss 119336161519.771865845 | Valid Loss 0.365332523| lr 0.006000000 | time 206.242
+Target: logvol | Layers 004| Heads 002| Epoch 001 | Train Loss 63709.802857450 | Valid Loss 120113.328982086| lr 0.006000000 | time 201.039
+Target: logvol | Layers 004| Heads 002| Epoch 002 | Train Loss 44605.700432366 | Valid Loss 306.148645356| lr 0.006000000 | time 200.994
+Target: logvol | Layers 004| Heads 002| Epoch 003 | Train Loss 78268.876602469 | Valid Loss 46.315322769| lr 0.006000000 | time 199.545
+Target: logvol | Layers 004| Heads 002| Epoch 004 | Train Loss 35855.702240702 | Valid Loss 3.088313933| lr 0.006000000 | time 202.674
+Target: logvol | Layers 004| Heads 002| Epoch 005 | Train Loss 57634.983040165 | Valid Loss 620.296998928| lr 0.006000000 | time 202.440
+Target: logvol | Layers 004| Heads 002| Epoch 006 | Train Loss 61524.535255482 | Valid Loss 0.429102867| lr 0.006000000 | time 199.533
+Target: logvol | Layers 004| Heads 002| Epoch 007 | Train Loss 74954.665785998 | Valid Loss 343.340851444| lr 0.006000000 | time 198.617
+Target: logvol | Layers 004| Heads 002| Epoch 008 | Train Loss 21973.825235869 | Valid Loss 16.842325815| lr 0.006000000 | time 199.623
+Target: logvol | Layers 004| Heads 002| Epoch 009 | Train Loss 23329.747120300 | Valid Loss 2946.895357486| lr 0.006000000 | time 198.864
+Target: logvol | Layers 004| Heads 002| Epoch 010 | Train Loss 66000.524446308 | Valid Loss 668.207138000| lr 0.006000000 | time 209.219
+Target: logvol | Layers 004| Heads 002| Epoch 011 | Train Loss 28066.601219669 | Valid Loss 181.680649014| lr 0.006000000 | time 199.645
+Target: logvol | Layers 004| Heads 002| Epoch 012 | Train Loss 19782.577841116 | Valid Loss 60.585261589| lr 0.006000000 | time 202.730
+Target: logvol | Layers 004| Heads 002| Epoch 013 | Train Loss 35248.143167888 | Valid Loss 8.082305092| lr 0.006000000 | time 203.714
+Target: logvol | Layers 004| Heads 002| Epoch 014 | Train Loss 32752.080697025 | Valid Loss 5292.235853586| lr 0.006000000 | time 206.110

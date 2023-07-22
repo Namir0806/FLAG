@@ -1,0 +1,15 @@
+Target: logvol | Towers 004| Heads 001| Epoch 000 | Train Loss 72547.138611762 | Valid Loss 2.132042322| lr 0.010000000 | time 2018.058
+Target: logvol | Towers 004| Heads 001| Epoch 001 | Train Loss 37109.256869460 | Valid Loss 19666.672544178| lr 0.010000000 | time 2008.488
+Target: logvol | Towers 004| Heads 001| Epoch 002 | Train Loss 3062.463538493 | Valid Loss 0.442641365| lr 0.010000000 | time 2000.296
+Target: logvol | Towers 004| Heads 001| Epoch 003 | Train Loss 3266.242360923 | Valid Loss 0.265066749| lr 0.010000000 | time 2006.722
+Target: logvol | Towers 004| Heads 001| Epoch 004 | Train Loss 277.626022337 | Valid Loss 0.446546255| lr 0.010000000 | time 1992.346
+Target: logvol | Towers 004| Heads 001| Epoch 005 | Train Loss 3009.974236174 | Valid Loss 0.095401799| lr 0.010000000 | time 1947.795
+Target: logvol | Towers 004| Heads 001| Epoch 006 | Train Loss 1163.535080047 | Valid Loss 0.114290213| lr 0.010000000 | time 1950.772
+Target: logvol | Towers 004| Heads 001| Epoch 007 | Train Loss 1117.178311449 | Valid Loss 0.105734083| lr 0.010000000 | time 1933.799
+Target: logvol | Towers 004| Heads 001| Epoch 008 | Train Loss 3028932.215874120 | Valid Loss 0.288710228| lr 0.010000000 | time 1928.528
+Target: logvol | Towers 004| Heads 001| Epoch 009 | Train Loss 304.125775295 | Valid Loss 3.969876070| lr 0.010000000 | time 1939.110
+Target: logvol | Towers 004| Heads 001| Epoch 010 | Train Loss 2064.154618008 | Valid Loss 1.842190382| lr 0.010000000 | time 1946.563
+Target: logvol | Towers 004| Heads 001| Epoch 011 | Train Loss 143.588452461 | Valid Loss 1.076078074| lr 0.010000000 | time 1943.987
+Target: logvol | Towers 004| Heads 001| Epoch 012 | Train Loss 458.103945951 | Valid Loss 0.209275806| lr 0.010000000 | time 1956.477
+Target: logvol | Towers 004| Heads 001| Epoch 013 | Train Loss 35293.467533296 | Valid Loss 24.387126289| lr 0.010000000 | time 1963.061
+Target: logvol | Towers 004| Heads 001| Epoch 014 | Train Loss 9946.988100427 | Valid Loss 0.313588808| lr 0.010000000 | time 1951.037

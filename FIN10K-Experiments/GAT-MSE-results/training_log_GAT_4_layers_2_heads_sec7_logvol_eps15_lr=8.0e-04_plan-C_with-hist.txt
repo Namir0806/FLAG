@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 002| Epoch 000 | Train Loss 920.028223945 | Valid Loss 0.110739500| lr 0.000800000 | time 214.288
+Target: logvol | Layers 004| Heads 002| Epoch 001 | Train Loss 0.873091508 | Valid Loss 0.103494274| lr 0.000800000 | time 214.883
+Target: logvol | Layers 004| Heads 002| Epoch 002 | Train Loss 0.097900887 | Valid Loss 0.101380124| lr 0.000800000 | time 212.841
+Target: logvol | Layers 004| Heads 002| Epoch 003 | Train Loss 0.096253623 | Valid Loss 0.108356712| lr 0.000800000 | time 211.530
+Target: logvol | Layers 004| Heads 002| Epoch 004 | Train Loss 0.130944291 | Valid Loss 0.097974418| lr 0.000800000 | time 210.860
+Target: logvol | Layers 004| Heads 002| Epoch 005 | Train Loss 0.135183091 | Valid Loss 8.490056958| lr 0.000800000 | time 216.579
+Target: logvol | Layers 004| Heads 002| Epoch 006 | Train Loss 0.097804047 | Valid Loss 0.099278565| lr 0.000800000 | time 214.195
+Target: logvol | Layers 004| Heads 002| Epoch 007 | Train Loss 0.120149436 | Valid Loss 0.098874949| lr 0.000800000 | time 211.832
+Target: logvol | Layers 004| Heads 002| Epoch 008 | Train Loss 0.113124392 | Valid Loss 0.179891507| lr 0.000800000 | time 214.368
+Target: logvol | Layers 004| Heads 002| Epoch 009 | Train Loss 0.099862967 | Valid Loss 0.119251690| lr 0.000800000 | time 214.066
+Target: logvol | Layers 004| Heads 002| Epoch 010 | Train Loss 0.101305125 | Valid Loss 0.096417152| lr 0.000800000 | time 194.908
+Target: logvol | Layers 004| Heads 002| Epoch 011 | Train Loss 0.100514008 | Valid Loss 0.099164192| lr 0.000800000 | time 202.652
+Target: logvol | Layers 004| Heads 002| Epoch 012 | Train Loss 0.092664199 | Valid Loss 0.105531090| lr 0.000800000 | time 190.457
+Target: logvol | Layers 004| Heads 002| Epoch 013 | Train Loss 0.099754668 | Valid Loss 0.098374703| lr 0.000800000 | time 189.285
+Target: logvol | Layers 004| Heads 002| Epoch 014 | Train Loss 0.103209161 | Valid Loss 0.112842526| lr 0.000800000 | time 189.263

@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 012| Epoch 000 | Train Loss 527.849454995 | Valid Loss 5.206801399| lr 0.000900000 | time 256.661
+Target: logvol | Layers 004| Heads 012| Epoch 001 | Train Loss 240.821906914 | Valid Loss 3.325743477| lr 0.000900000 | time 257.051
+Target: logvol | Layers 004| Heads 012| Epoch 002 | Train Loss 2402.565455170 | Valid Loss 235.979138062| lr 0.000900000 | time 252.495
+Target: logvol | Layers 004| Heads 012| Epoch 003 | Train Loss 2211.290060169 | Valid Loss 172.323127532| lr 0.000900000 | time 243.660
+Target: logvol | Layers 004| Heads 012| Epoch 004 | Train Loss 1833.757465360 | Valid Loss 48000.235487866| lr 0.000900000 | time 245.018
+Target: logvol | Layers 004| Heads 012| Epoch 005 | Train Loss 1184.684488678 | Valid Loss 112.666178471| lr 0.000900000 | time 249.763
+Target: logvol | Layers 004| Heads 012| Epoch 006 | Train Loss 3799.772436467 | Valid Loss 203.191896842| lr 0.000900000 | time 248.040
+Target: logvol | Layers 004| Heads 012| Epoch 007 | Train Loss 2892.376758788 | Valid Loss 9.183796651| lr 0.000900000 | time 247.606
+Target: logvol | Layers 004| Heads 012| Epoch 008 | Train Loss 3187.143894262 | Valid Loss 586.718998250| lr 0.000900000 | time 254.339
+Target: logvol | Layers 004| Heads 012| Epoch 009 | Train Loss 7203.163219771 | Valid Loss 280.823632630| lr 0.000900000 | time 249.760
+Target: logvol | Layers 004| Heads 012| Epoch 010 | Train Loss 1347.236403542 | Valid Loss 90.351650282| lr 0.000900000 | time 237.861
+Target: logvol | Layers 004| Heads 012| Epoch 011 | Train Loss 2996.573980805 | Valid Loss 5.774331900| lr 0.000900000 | time 229.455
+Target: logvol | Layers 004| Heads 012| Epoch 012 | Train Loss 483.867593945 | Valid Loss 533.004953948| lr 0.000900000 | time 233.394
+Target: logvol | Layers 004| Heads 012| Epoch 013 | Train Loss 547.741284281 | Valid Loss 2.094443091| lr 0.000900000 | time 232.017
+Target: logvol | Layers 004| Heads 012| Epoch 014 | Train Loss 1989.613313605 | Valid Loss 3.479987876| lr 0.000900000 | time 232.866

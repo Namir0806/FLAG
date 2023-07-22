@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 002| Epoch 000 | Train Loss 1646230387247007.250000000 | Valid Loss 3821600419681139.000000000| lr 0.005000000 | time 253.657
+Target: logvol | Layers 004| Heads 002| Epoch 001 | Train Loss 130275146160.567871094 | Valid Loss 16730234868.190769196| lr 0.005000000 | time 242.047
+Target: logvol | Layers 004| Heads 002| Epoch 002 | Train Loss 8745556122492.896484375 | Valid Loss 1672.537000977| lr 0.005000000 | time 244.155
+Target: logvol | Layers 004| Heads 002| Epoch 003 | Train Loss 11177.537303009 | Valid Loss 0.558523008| lr 0.005000000 | time 239.015
+Target: logvol | Layers 004| Heads 002| Epoch 004 | Train Loss 6308.470546722 | Valid Loss 3.251040776| lr 0.005000000 | time 236.059
+Target: logvol | Layers 004| Heads 002| Epoch 005 | Train Loss 6510.495572659 | Valid Loss 80.173206936| lr 0.005000000 | time 241.869
+Target: logvol | Layers 004| Heads 002| Epoch 006 | Train Loss 5226.531138739 | Valid Loss 5.462351243| lr 0.005000000 | time 238.399
+Target: logvol | Layers 004| Heads 002| Epoch 007 | Train Loss 10297.003032787 | Valid Loss 2.827965233| lr 0.005000000 | time 241.002
+Target: logvol | Layers 004| Heads 002| Epoch 008 | Train Loss 2962.782264949 | Valid Loss 220.590371971| lr 0.005000000 | time 241.601
+Target: logvol | Layers 004| Heads 002| Epoch 009 | Train Loss 1803.039565722 | Valid Loss 93.288197127| lr 0.005000000 | time 243.853
+Target: logvol | Layers 004| Heads 002| Epoch 010 | Train Loss 5896.274905632 | Valid Loss 91.879549104| lr 0.005000000 | time 252.087
+Target: logvol | Layers 004| Heads 002| Epoch 011 | Train Loss 6989.707367118 | Valid Loss 2.472347376| lr 0.005000000 | time 253.242
+Target: logvol | Layers 004| Heads 002| Epoch 012 | Train Loss 13219.877470762 | Valid Loss 0.167678414| lr 0.005000000 | time 251.517
+Target: logvol | Layers 004| Heads 002| Epoch 013 | Train Loss 2785.874407174 | Valid Loss 133.969591902| lr 0.005000000 | time 255.631
+Target: logvol | Layers 004| Heads 002| Epoch 014 | Train Loss 7517.573609750 | Valid Loss 0.480040385| lr 0.005000000 | time 258.975

@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 004| Epoch 000 | Train Loss 1493088078.267096043 | Valid Loss 201625.829812184| lr 0.004000000 | time 271.897
+Target: logvol | Layers 004| Heads 004| Epoch 001 | Train Loss 1367024.887709681 | Valid Loss 50687948.412582196| lr 0.004000000 | time 288.021
+Target: logvol | Layers 004| Heads 004| Epoch 002 | Train Loss 21853.031598593 | Valid Loss 7.449238576| lr 0.004000000 | time 291.156
+Target: logvol | Layers 004| Heads 004| Epoch 003 | Train Loss 709.278190827 | Valid Loss 0.885764007| lr 0.004000000 | time 256.211
+Target: logvol | Layers 004| Heads 004| Epoch 004 | Train Loss 327.246606014 | Valid Loss 1.484315051| lr 0.004000000 | time 258.442
+Target: logvol | Layers 004| Heads 004| Epoch 005 | Train Loss 248.323115804 | Valid Loss 0.095210601| lr 0.004000000 | time 217.994
+Target: logvol | Layers 004| Heads 004| Epoch 006 | Train Loss 363.701416582 | Valid Loss 6.748325251| lr 0.004000000 | time 218.056
+Target: logvol | Layers 004| Heads 004| Epoch 007 | Train Loss 658.308783779 | Valid Loss 1.841676048| lr 0.004000000 | time 221.479
+Target: logvol | Layers 004| Heads 004| Epoch 008 | Train Loss 263.766406607 | Valid Loss 39.201912137| lr 0.004000000 | time 222.267
+Target: logvol | Layers 004| Heads 004| Epoch 009 | Train Loss 427.466654445 | Valid Loss 0.250613350| lr 0.004000000 | time 219.959
+Target: logvol | Layers 004| Heads 004| Epoch 010 | Train Loss 339.538189123 | Valid Loss 0.112014304| lr 0.004000000 | time 230.103
+Target: logvol | Layers 004| Heads 004| Epoch 011 | Train Loss 441.066639594 | Valid Loss 16.286909967| lr 0.004000000 | time 210.165
+Target: logvol | Layers 004| Heads 004| Epoch 012 | Train Loss 210.537492607 | Valid Loss 5.652137506| lr 0.004000000 | time 208.557
+Target: logvol | Layers 004| Heads 004| Epoch 013 | Train Loss 942.902624370 | Valid Loss 1.429833327| lr 0.004000000 | time 213.872
+Target: logvol | Layers 004| Heads 004| Epoch 014 | Train Loss 189.683453229 | Valid Loss 3.161075156| lr 0.004000000 | time 210.709

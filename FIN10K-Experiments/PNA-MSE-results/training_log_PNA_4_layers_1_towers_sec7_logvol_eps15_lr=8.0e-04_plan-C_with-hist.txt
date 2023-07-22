@@ -1,0 +1,15 @@
+Target: logvol | Towers 004| Heads 001| Epoch 000 | Train Loss 3.376791981 | Valid Loss 0.172692235| lr 0.000800000 | time 1933.335
+Target: logvol | Towers 004| Heads 001| Epoch 001 | Train Loss 2.046157041 | Valid Loss 2.273427898| lr 0.000800000 | time 1947.235
+Target: logvol | Towers 004| Heads 001| Epoch 002 | Train Loss 47.087686503 | Valid Loss 0.207560025| lr 0.000800000 | time 1948.571
+Target: logvol | Towers 004| Heads 001| Epoch 003 | Train Loss 0.088975887 | Valid Loss 0.107822940| lr 0.000800000 | time 1948.318
+Target: logvol | Towers 004| Heads 001| Epoch 004 | Train Loss 0.095259993 | Valid Loss 0.106223293| lr 0.000800000 | time 1940.118
+Target: logvol | Towers 004| Heads 001| Epoch 005 | Train Loss 17.043312345 | Valid Loss 0.105192678| lr 0.000800000 | time 1965.425
+Target: logvol | Towers 004| Heads 001| Epoch 006 | Train Loss 0.573756756 | Valid Loss 0.103604626| lr 0.000800000 | time 1966.784
+Target: logvol | Towers 004| Heads 001| Epoch 007 | Train Loss 0.127558383 | Valid Loss 0.103436916| lr 0.000800000 | time 1965.092
+Target: logvol | Towers 004| Heads 001| Epoch 008 | Train Loss 0.082771027 | Valid Loss 0.103408181| lr 0.000800000 | time 1968.863
+Target: logvol | Towers 004| Heads 001| Epoch 009 | Train Loss 0.081159360 | Valid Loss 0.104436868| lr 0.000800000 | time 1978.295
+Target: logvol | Towers 004| Heads 001| Epoch 010 | Train Loss 0.085892318 | Valid Loss 0.103274937| lr 0.000800000 | time 1970.437
+Target: logvol | Towers 004| Heads 001| Epoch 011 | Train Loss 0.086573799 | Valid Loss 0.123256247| lr 0.000800000 | time 1961.190
+Target: logvol | Towers 004| Heads 001| Epoch 012 | Train Loss 0.100896936 | Valid Loss 0.103279025| lr 0.000800000 | time 1984.775
+Target: logvol | Towers 004| Heads 001| Epoch 013 | Train Loss 0.082149158 | Valid Loss 0.104770743| lr 0.000800000 | time 2002.071
+Target: logvol | Towers 004| Heads 001| Epoch 014 | Train Loss 0.080393459 | Valid Loss 0.104112519| lr 0.000800000 | time 1967.224

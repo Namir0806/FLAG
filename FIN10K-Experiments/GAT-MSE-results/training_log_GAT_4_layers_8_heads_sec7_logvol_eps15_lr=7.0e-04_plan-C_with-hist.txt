@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 008| Epoch 000 | Train Loss 28.958513453 | Valid Loss 26.508981353| lr 0.000700000 | time 225.701
+Target: logvol | Layers 004| Heads 008| Epoch 001 | Train Loss 238.243633328 | Valid Loss 32.902428857| lr 0.000700000 | time 219.614
+Target: logvol | Layers 004| Heads 008| Epoch 002 | Train Loss 979.312661657 | Valid Loss 62.740692152| lr 0.000700000 | time 224.002
+Target: logvol | Layers 004| Heads 008| Epoch 003 | Train Loss 350.273025161 | Valid Loss 16.020449026| lr 0.000700000 | time 219.688
+Target: logvol | Layers 004| Heads 008| Epoch 004 | Train Loss 1765.707277156 | Valid Loss 162.425250647| lr 0.000700000 | time 220.760
+Target: logvol | Layers 004| Heads 008| Epoch 005 | Train Loss 2357.743046939 | Valid Loss 142.695221346| lr 0.000700000 | time 229.446
+Target: logvol | Layers 004| Heads 008| Epoch 006 | Train Loss 3317.694452774 | Valid Loss 113.694378826| lr 0.000700000 | time 224.078
+Target: logvol | Layers 004| Heads 008| Epoch 007 | Train Loss 1904.616298415 | Valid Loss 20.351533103| lr 0.000700000 | time 221.858
+Target: logvol | Layers 004| Heads 008| Epoch 008 | Train Loss 2389.617419631 | Valid Loss 73.599936609| lr 0.000700000 | time 220.695
+Target: logvol | Layers 004| Heads 008| Epoch 009 | Train Loss 5583.392616755 | Valid Loss 136907.296176093| lr 0.000700000 | time 221.069
+Target: logvol | Layers 004| Heads 008| Epoch 010 | Train Loss 2394.521400265 | Valid Loss 72.500941601| lr 0.000700000 | time 226.040
+Target: logvol | Layers 004| Heads 008| Epoch 011 | Train Loss 3327.767938665 | Valid Loss 641.925011809| lr 0.000700000 | time 225.982
+Target: logvol | Layers 004| Heads 008| Epoch 012 | Train Loss 5360.430556334 | Valid Loss 69.650801839| lr 0.000700000 | time 231.776
+Target: logvol | Layers 004| Heads 008| Epoch 013 | Train Loss 6594.562295646 | Valid Loss 375.554728992| lr 0.000700000 | time 219.441
+Target: logvol | Layers 004| Heads 008| Epoch 014 | Train Loss 1814.421919826 | Valid Loss 42.463616410| lr 0.000700000 | time 219.016

@@ -1,0 +1,15 @@
+Target: logvol | Towers 004| Heads 001| Epoch 000 | Train Loss 8419.824253936 | Valid Loss 0.202511857| lr 0.009000000 | time 1975.161
+Target: logvol | Towers 004| Heads 001| Epoch 001 | Train Loss 9557.097846897 | Valid Loss 0.098479452| lr 0.009000000 | time 1975.186
+Target: logvol | Towers 004| Heads 001| Epoch 002 | Train Loss 7174.002797250 | Valid Loss 2.448343684| lr 0.009000000 | time 1988.687
+Target: logvol | Towers 004| Heads 001| Epoch 003 | Train Loss 5784.219556535 | Valid Loss 0.108733855| lr 0.009000000 | time 1971.071
+Target: logvol | Towers 004| Heads 001| Epoch 004 | Train Loss 876.924235218 | Valid Loss 0.654481405| lr 0.009000000 | time 1956.854
+Target: logvol | Towers 004| Heads 001| Epoch 005 | Train Loss 352.661921199 | Valid Loss 0.525498354| lr 0.009000000 | time 1951.922
+Target: logvol | Towers 004| Heads 001| Epoch 006 | Train Loss 484937.373652278 | Valid Loss 1.237723910| lr 0.009000000 | time 1958.170
+Target: logvol | Towers 004| Heads 001| Epoch 007 | Train Loss 3019.487417401 | Valid Loss 0.171791078| lr 0.009000000 | time 1949.462
+Target: logvol | Towers 004| Heads 001| Epoch 008 | Train Loss 119.042517022 | Valid Loss 0.243990265| lr 0.009000000 | time 1927.203
+Target: logvol | Towers 004| Heads 001| Epoch 009 | Train Loss 966.000202474 | Valid Loss 13.818975460| lr 0.009000000 | time 1927.922
+Target: logvol | Towers 004| Heads 001| Epoch 010 | Train Loss 371.543144319 | Valid Loss 1.874606608| lr 0.009000000 | time 1969.010
+Target: logvol | Towers 004| Heads 001| Epoch 011 | Train Loss 657.667808868 | Valid Loss 0.110626989| lr 0.009000000 | time 1966.171
+Target: logvol | Towers 004| Heads 001| Epoch 012 | Train Loss 4427.110271964 | Valid Loss 0.101470587| lr 0.009000000 | time 1976.274
+Target: logvol | Towers 004| Heads 001| Epoch 013 | Train Loss 59.431640818 | Valid Loss 0.183759152| lr 0.009000000 | time 1977.190
+Target: logvol | Towers 004| Heads 001| Epoch 014 | Train Loss 70.412911092 | Valid Loss 0.662252829| lr 0.009000000 | time 1986.397

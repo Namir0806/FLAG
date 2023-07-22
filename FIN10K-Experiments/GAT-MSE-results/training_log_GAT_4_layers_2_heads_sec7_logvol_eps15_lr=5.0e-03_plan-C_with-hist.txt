@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 002| Epoch 000 | Train Loss 67399495.604848310 | Valid Loss 5.224116747| lr 0.005000000 | time 206.342
+Target: logvol | Layers 004| Heads 002| Epoch 001 | Train Loss 7313.319131782 | Valid Loss 0.434807960| lr 0.005000000 | time 201.564
+Target: logvol | Layers 004| Heads 002| Epoch 002 | Train Loss 4465.886441231 | Valid Loss 144.422026501| lr 0.005000000 | time 200.547
+Target: logvol | Layers 004| Heads 002| Epoch 003 | Train Loss 4072.481199642 | Valid Loss 1.966886065| lr 0.005000000 | time 212.979
+Target: logvol | Layers 004| Heads 002| Epoch 004 | Train Loss 2388.619658571 | Valid Loss 323.868145026| lr 0.005000000 | time 211.052
+Target: logvol | Layers 004| Heads 002| Epoch 005 | Train Loss 5240.953634804 | Valid Loss 1707.303397944| lr 0.005000000 | time 213.204
+Target: logvol | Layers 004| Heads 002| Epoch 006 | Train Loss 6262.806324190 | Valid Loss 0.096581409| lr 0.005000000 | time 213.507
+Target: logvol | Layers 004| Heads 002| Epoch 007 | Train Loss 5080.739228909 | Valid Loss 3.122669891| lr 0.005000000 | time 231.792
+Target: logvol | Layers 004| Heads 002| Epoch 008 | Train Loss 3161.270374709 | Valid Loss 0.468067532| lr 0.005000000 | time 323.460
+Target: logvol | Layers 004| Heads 002| Epoch 009 | Train Loss 2859.789332306 | Valid Loss 1.841985159| lr 0.005000000 | time 215.262
+Target: logvol | Layers 004| Heads 002| Epoch 010 | Train Loss 2659.516953731 | Valid Loss 6.052711702| lr 0.005000000 | time 221.406
+Target: logvol | Layers 004| Heads 002| Epoch 011 | Train Loss 6753.498746003 | Valid Loss 0.099553994| lr 0.005000000 | time 214.963
+Target: logvol | Layers 004| Heads 002| Epoch 012 | Train Loss 2925.329280481 | Valid Loss 36.419409075| lr 0.005000000 | time 206.207
+Target: logvol | Layers 004| Heads 002| Epoch 013 | Train Loss 3680.815756873 | Valid Loss 20.797221132| lr 0.005000000 | time 209.587
+Target: logvol | Layers 004| Heads 002| Epoch 014 | Train Loss 2912.455576807 | Valid Loss 64790.307803974| lr 0.005000000 | time 213.616

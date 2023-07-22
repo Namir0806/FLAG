@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 008| Epoch 000 | Train Loss 741.722965813 | Valid Loss 922.122518229| lr 0.000900000 | time 223.432
+Target: logvol | Layers 004| Heads 008| Epoch 001 | Train Loss 11604.507083284 | Valid Loss 115.740053579| lr 0.000900000 | time 220.060
+Target: logvol | Layers 004| Heads 008| Epoch 002 | Train Loss 5385.217298108 | Valid Loss 1475.260408735| lr 0.000900000 | time 223.495
+Target: logvol | Layers 004| Heads 008| Epoch 003 | Train Loss 8321.030151849 | Valid Loss 13228.892639161| lr 0.000900000 | time 220.262
+Target: logvol | Layers 004| Heads 008| Epoch 004 | Train Loss 24104.362902696 | Valid Loss 4267.352920385| lr 0.000900000 | time 220.732
+Target: logvol | Layers 004| Heads 008| Epoch 005 | Train Loss 3407.051305906 | Valid Loss 12.950380638| lr 0.000900000 | time 230.550
+Target: logvol | Layers 004| Heads 008| Epoch 006 | Train Loss 6278.081741018 | Valid Loss 60567.043178215| lr 0.000900000 | time 223.950
+Target: logvol | Layers 004| Heads 008| Epoch 007 | Train Loss 28895.947638876 | Valid Loss 668.474586597| lr 0.000900000 | time 228.162
+Target: logvol | Layers 004| Heads 008| Epoch 008 | Train Loss 53527.530509292 | Valid Loss 13335.889632310| lr 0.000900000 | time 221.997
+Target: logvol | Layers 004| Heads 008| Epoch 009 | Train Loss 33804.324883015 | Valid Loss 14330.147352940| lr 0.000900000 | time 221.415
+Target: logvol | Layers 004| Heads 008| Epoch 010 | Train Loss 29869.414289238 | Valid Loss 21999.245396472| lr 0.000900000 | time 226.789
+Target: logvol | Layers 004| Heads 008| Epoch 011 | Train Loss 65023.061908210 | Valid Loss 5491.871824561| lr 0.000900000 | time 223.226
+Target: logvol | Layers 004| Heads 008| Epoch 012 | Train Loss 52647.839224801 | Valid Loss 114831.460505310| lr 0.000900000 | time 221.663
+Target: logvol | Layers 004| Heads 008| Epoch 013 | Train Loss 56400.416115150 | Valid Loss 6236.703751675| lr 0.000900000 | time 215.487
+Target: logvol | Layers 004| Heads 008| Epoch 014 | Train Loss 36801.489122341 | Valid Loss 495.370666264| lr 0.000900000 | time 215.241

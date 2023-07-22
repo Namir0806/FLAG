@@ -1,0 +1,15 @@
+Target: logvol | Layers 004| Heads 008| Epoch 000 | Train Loss 6695167.324710392 | Valid Loss 26415374.305328142| lr 0.002000000 | time 228.808
+Target: logvol | Layers 004| Heads 008| Epoch 001 | Train Loss 9199408.480908576 | Valid Loss 12031510.046603719| lr 0.002000000 | time 216.056
+Target: logvol | Layers 004| Heads 008| Epoch 002 | Train Loss 10206368.490679659 | Valid Loss 6383842.773159283| lr 0.002000000 | time 219.517
+Target: logvol | Layers 004| Heads 008| Epoch 003 | Train Loss 26254150.096152633 | Valid Loss 1666554.902777259| lr 0.002000000 | time 219.297
+Target: logvol | Layers 004| Heads 008| Epoch 004 | Train Loss 11437838.195159443 | Valid Loss 5538.516671349| lr 0.002000000 | time 219.724
+Target: logvol | Layers 004| Heads 008| Epoch 005 | Train Loss 19359.693799137 | Valid Loss 68795.013216405| lr 0.002000000 | time 220.349
+Target: logvol | Layers 004| Heads 008| Epoch 006 | Train Loss 1.596244218 | Valid Loss 6.593937301| lr 0.002000000 | time 219.206
+Target: logvol | Layers 004| Heads 008| Epoch 007 | Train Loss 0.787890718 | Valid Loss 0.163129346| lr 0.002000000 | time 217.934
+Target: logvol | Layers 004| Heads 008| Epoch 008 | Train Loss 1.137102442 | Valid Loss 0.098072261| lr 0.002000000 | time 217.835
+Target: logvol | Layers 004| Heads 008| Epoch 009 | Train Loss 1.425571398 | Valid Loss 0.870506249| lr 0.002000000 | time 218.208
+Target: logvol | Layers 004| Heads 008| Epoch 010 | Train Loss 1571.417739473 | Valid Loss 9390.890136659| lr 0.002000000 | time 230.172
+Target: logvol | Layers 004| Heads 008| Epoch 011 | Train Loss 1.175901034 | Valid Loss 0.095594482| lr 0.002000000 | time 221.721
+Target: logvol | Layers 004| Heads 008| Epoch 012 | Train Loss 0.987976360 | Valid Loss 0.725385073| lr 0.002000000 | time 222.691
+Target: logvol | Layers 004| Heads 008| Epoch 013 | Train Loss 2.719962597 | Valid Loss 0.168310877| lr 0.002000000 | time 225.581
+Target: logvol | Layers 004| Heads 008| Epoch 014 | Train Loss 1.275046290 | Valid Loss 6.115847412| lr 0.002000000 | time 229.358
