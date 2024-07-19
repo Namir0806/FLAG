@@ -1,5 +1,6 @@
 # FLAG
-Source code and software artifacts for the paper "FLAG: Financial Long Document Regression via AMR-based GNN‘
+Source code and software artifacts for the method Financial Long document classfication via
+AMR-based GNNs (FLAG), proposed in the paper "Semantic Graph Learning for Trend Prediction from Long Financial Documents‘
 
 # Model Weights and Data
 
